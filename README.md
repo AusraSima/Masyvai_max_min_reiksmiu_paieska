@@ -1,1 +1,0 @@
-# Masyvai_max_min_reiksmiu_paieska
